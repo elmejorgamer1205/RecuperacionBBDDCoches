@@ -1,4 +1,3 @@
-import aventura.app.exceptions.MiEntrdadaSalidaException;
 import java.time.DateTimeException;
 import java.time.LocalDate;
 import java.util.Collection;
